@@ -1,6 +1,0 @@
-{
-    "sourceRepo" : "docker-local2",
-    "dockerImage" : "docker-mvn-app",
-    "sourceTag" : "@",
-    "destTag" : "latest"
-}
