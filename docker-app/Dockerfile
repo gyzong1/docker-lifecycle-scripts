@@ -1,4 +1,4 @@
-FROM docker-virtual.test.artifactory.com/docker-framework:latest
+FROM 192.168.230.147:8081/docker-virtual/docker-framework:latest
 
 MAINTAINER guoyunzong gyzong1@163.com
 
