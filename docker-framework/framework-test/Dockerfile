@@ -1,4 +1,4 @@
-FROM docker-virtual.test.artifactory.com/docker-framework:latest
+FROM docker_ip/docker-framework:latest
 
 MAINTAINER Mark guoyunzong gyzong1@163.com
 
