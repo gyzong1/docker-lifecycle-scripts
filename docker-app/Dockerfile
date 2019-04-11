@@ -1,4 +1,4 @@
-FROM docker_ip/docker-virtual/docker-framework:latest
+FROM docker_ip/docker-framework:latest
 
 MAINTAINER guoyunzong gyzong1@163.com
 
